@@ -46,12 +46,12 @@ export default function About() {
               <span className="text-white/50">Under The Starlight</span>
             </h2>
             <p className="text-gray-400 leading-relaxed mb-6 text-lg">
-              Inspired by the captivating gaze of Medusa, our lounge is designed to
+              Inspired by the captivating gaze of us, our lounge is designed to
               stop time. From the moment you step in, the outside world fades into a
               distant memory, replaced by an atmosphere of pure indulgence and electric energy.
             </p>
             <p className="text-gray-400 leading-relaxed mb-12 text-lg">
-              Medusa Sky Lounge isn't just a place to be seen—it's a sanctuary for the
+              Lounge isn't just a place to be seen—it's a sanctuary for the
               senses, where gold-dusted evenings turn into neon-soaked nights.
             </p>
 

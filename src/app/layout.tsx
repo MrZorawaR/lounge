@@ -16,8 +16,8 @@ const cinzel = Cinzel({
 });
 
 export const metadata: Metadata = {
-  title: 'Medusa Sky Lounge | Alcohol • Dancing • Fine Dining',
-  description: 'Experience the elite nightlife at Medusa Sky Lounge. Exquisite dining, signature cocktails, and immersive entertainment under the sky.',
+  title: 'Lounge | Alcohol • Dancing • Fine Dining',
+  description: 'Experience the elite nightlife at Lounge. Exquisite dining, signature cocktails, and immersive entertainment under the sky.',
 };
 
 export default function RootLayout({

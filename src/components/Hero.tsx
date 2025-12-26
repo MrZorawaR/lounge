@@ -63,7 +63,7 @@ export default function Hero() {
             transition={{ duration: 1.2, ease: "easeOut" }}
             className="block"
           >
-            MEDUSA
+            STAR
           </motion.span>
           <motion.span
             initial={{ opacity: 0, x: -50 }}
@@ -71,7 +71,7 @@ export default function Hero() {
             transition={{ duration: 1, delay: 0.5 }}
             className="block text-4xl md:text-6xl lg:text-7xl font-sans font-light tracking-tighter mt-2 text-white/90"
           >
-            SKY LOUNGE
+            LOUNGE
           </motion.span>
         </h1>
 

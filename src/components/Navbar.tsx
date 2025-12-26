@@ -37,7 +37,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link href="/" className="relative z-10 group">
           <h1 className="text-2xl md:text-3xl font-serif text-white tracking-widest uppercase">
-            Medusa <span className="text-primary group-hover:text-accent transition-colors">Sky</span>
+            Star <span className="text-primary group-hover:text-accent transition-colors">Lounge</span>
           </h1>
           <div className="h-[2px] w-0 group-hover:w-full bg-primary transition-all duration-300 absolute -bottom-1 left-0 shadow-[0_0_10px_#D4AF37]" />
         </Link>

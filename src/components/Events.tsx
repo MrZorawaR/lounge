@@ -9,7 +9,7 @@ const events = [
     day: "Friday",
     title: "Neon Horizon: Opening Night",
     time: "22:00 - 04:00",
-    description: "Experience the grand unveiling of Medusa Sky Lounge with international DJ sets.",
+    description: "Experience the grand unveiling of Lounge with international DJ sets.",
   },
   {
     date: "OCT 25",
@@ -21,7 +21,7 @@ const events = [
   {
     date: "OCT 31",
     day: "Friday",
-    title: "Medusa's Masquerade",
+    title: "Lounges's Masquerade",
     time: "21:00 - Late",
     description: "An exclusive Halloween gala. Masks required. Mystery guaranteed.",
   },

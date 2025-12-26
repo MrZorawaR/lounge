@@ -7,7 +7,7 @@ const menuItems = [
   {
     category: "Signature Cocktails",
     items: [
-      { name: "The Medusa Gaze", price: "$24", desc: "Gin, Elderflower, Cucumber, Gold Dust" },
+      { name: "The Lounge Gaze", price: "$24", desc: "Gin, Elderflower, Cucumber, Gold Dust" },
       { name: "Neon Nights", price: "$22", desc: "Vodka, Blue Curaçao, Lemon, Dry Ice" },
       { name: "Golden Touch", price: "$28", desc: "Whiskey, Honey, Saffron, Edible Gold" },
     ],

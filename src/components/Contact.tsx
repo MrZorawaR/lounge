@@ -25,8 +25,8 @@ export default function Contact() {
               <div className="flex items-start gap-4">
                 <MapPin className="text-primary mt-1" />
                 <div>
-                  <h5 className="text-white font-bold mb-1">Medusa Sky Lounge</h5>
-                  <p className="text-gray-400">4th floor , Rooftop, Hotel Rosewood, Juhi Kala, Barra World Bank, Saket Nagar, Kanpur, Uttar Pradesh 208009</p>
+                  <h5 className="text-white font-bold mb-1">Lounge</h5>
+                  <p className="text-gray-400">New Location Address</p>
                 </div>
               </div>
 
@@ -42,7 +42,7 @@ export default function Contact() {
                 <Mail className="text-primary mt-1" />
                 <div>
                   <h5 className="text-white font-bold mb-1">Events & VIP</h5>
-                  <p className="text-gray-400">vip@medusaskylounge.com</p>
+                  <p className="text-gray-400">vip@lounge.com</p>
                 </div>
               </div>
             </div>
